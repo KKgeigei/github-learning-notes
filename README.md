@@ -15,3 +15,9 @@ I am new to GitHub, and I want one place to record what I learn as I explore.
 ## First note
 
 Today I created my first GitHub repository.
+
+
+
+## Learning log
+
+- [Day 01](day-01.md)
